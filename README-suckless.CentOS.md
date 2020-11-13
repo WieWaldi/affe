@@ -106,6 +106,6 @@ suckless.org applications have been patched already.
 No, it's not a "The Blue Oyster" theme. But I like these colors anyway.
 | Color          | Hex |
 |---|---|
-| Deep Pink      |    `#5f005f`|
+| Deep Pink      |    ![#5f005f](https://via.placeholder.com/15/5f005f/000000?text=+) `#5f005f`|
 | Dark Magenta   |    `#8700af`|
 | Medium Purple  |    `#af87d7`|
