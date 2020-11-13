@@ -6,9 +6,9 @@ stuff as well. This repo targets specially and only a minimal installation of
 CentOS 7/8.
 
 ## Motivation ...
-... is to get a CentOS minimal installation equiped with a graphical user
-interface in pretty much no time and hassle using a script to build and install
-a suckless user interface.
+... is to get a CentOS minimal installation equiped with a suckless graphical
+user interface in pretty much no time and hassle using a script for building
+and installation.
 I'm convinced that RedHatEL/CentOS is one of the best GNU/Linux distributions
 and very well suited for company and business use. In my case, I'm running many
 RedHatEL/CentOS servers at the back office and on some workstations as well.
@@ -74,12 +74,14 @@ suckless.org applications have been patched already.
 - **maim** - make image
 - **rotwall** - rotate wallpapers
 - **slock** — simple X screen locker (Version 1.4) contains the following patches.
+  - slock-capscolor-20170106-2d2a21a.diff
   - slock-message-20191002-b46028b.diff
   - slock-xresources-20191126-53e56c7.diff
 - **slop** - select operation
 - **sselp** - Simple X selection printer
 - **st** - simple terminal (Version 0.8.4) contains the following patches.
   - st-alpha-0.8.2.diff
+  - st-blinking_cursor-20200531-a2a7044.diff
   - st-bold-is-not-bright-20190127-3be4cf1.diff
   - st-iso14755-0.8.3.diff
   - st-iso14755-20180911-67d0cb6.diff
@@ -98,4 +100,10 @@ suckless.org applications have been patched already.
 - **xdotool** - command-line X11 automation tool
 - **xmenu** - menu utility for X
 - **xmerge** - Merge and apply .Xresource
+- **xssstate** - display the state of the X screensaver extension
 
+## Colors
+No, it's not a "The Blue Oyster" theme. But I like these colors anyway.
+| Deep Pink      |    #5f005f|
+| Dark Magenta   |    #8700af|
+| Medium Purple  |    #af87d7|
