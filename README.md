@@ -2,6 +2,6 @@
 affe
 
 # ToDo
-- [ ] Anfangen
+- [X] Anfangen
 - [ ] Weiter machen
 - [ ] Fertig machen
