@@ -49,11 +49,12 @@ Version 1.0
 | Medium Purple | ![#af87d7](https://via.placeholder.com/15/af87d7/000000?text=+) `#af87d7` | 175, 135, 215 | 140   |
 
 
-| ziemlich | geiles Zeig | und  | onch | nein | das   | heisst | noch |
-|----------|-------------|------|------|------|-------|--------|------|
-| mal      | sehen       | obn  | das  | so   | gehen | wird   |      |
-| nein     |             | so   | ges  | das  |       | das    |      |
-| od       | sldk        | lsdk | sld  | sld  | s     | s      | s    |
+| ziemlich | geiles Zeig | und    | onch | nein | das   | heisst | noch | einfach | noch was | dazu machen | oder | etwa | nicht | ?! |
+|----------|-------------|--------|------|------|-------|--------|------|---------|----------|-------------|------|------|-------|----|
+| mal      | sehen       | obn    | das  | so   | gehen | wird   |      |         |          |             |      |      |       |    |
+| nein     |             | so     | ges  | das  |       | das    |      |         |          |             |      |      |       |    |
+| od       | sldk        | lsdk   | sld  | sld  | s     | s      |      |         |          |             |      |      |       |    |
+| sich     | gehe        | lassen | ist  | doch | voll  | ok     | !    |         |          |             |      |      |       |    |
 
 ahe und hier koennen wir wieder weiter machen  
 > und sehen was heier noch so kommen wird.  
