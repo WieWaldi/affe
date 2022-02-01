@@ -42,8 +42,26 @@ Version 1.0
 
 ### Simple Fun
 
-| Color         | Hex | RGB | CTERM |
-|---|---|---|---|
-| Deep Pink     |    ![#5f005f](https://via.placeholder.com/15/5f005f/000000?text=+) `#5f005f`| 95, 0, 95     | 53  |
-| Dark Magenta  |    ![#8700af](https://via.placeholder.com/15/8700af/000000?text=+) `#8700af`| 135, 0, 175   | 91  |
-| Medium Purple |    ![#af87d7](https://via.placeholder.com/15/af87d7/000000?text=+) `#af87d7`| 175, 135, 215 | 140 |
+| Color         | Hex                                                                       | RGB           | CTERM |
+|---------------|---------------------------------------------------------------------------|---------------|-------|
+| Deep Pink     | ![#5f005f](https://via.placeholder.com/15/5f005f/000000?text=+) `#5f005f` | 95, 0, 95     | 53    |
+| Dark Magenta  | ![#8700af](https://via.placeholder.com/15/8700af/000000?text=+) `#8700af` | 135, 0, 175   | 91    |
+| Medium Purple | ![#af87d7](https://via.placeholder.com/15/af87d7/000000?text=+) `#af87d7` | 175, 135, 215 | 140   |
+
+
+| ziemlich | geiles Zeig | und  | onch | nein | das   | heisst | noch |
+|----------|-------------|------|------|------|-------|--------|------|
+| mal      | sehen       | obn  | das  | so   | gehen | wird   |      |
+| nein     |             | so   | ges  | das  |       | das    |      |
+| od       | sldk        | lsdk | sld  | sld  | s     | s      | s    |
+ahe und hier koennen wir wieder weiter machen
+> und sehen was heier noch so kommen wird.  
+> waere toll wenn das jetzt hier so einge-  
+> rueckt werde.
+
+### Aber Fun geht weiter
+*man kann leider nicht alles haben.-)*
+Und hier geht es normal weiter.
+
+
+
