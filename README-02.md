@@ -54,7 +54,8 @@ Version 1.0
 | mal      | sehen       | obn  | das  | so   | gehen | wird   |      |
 | nein     |             | so   | ges  | das  |       | das    |      |
 | od       | sldk        | lsdk | sld  | sld  | s     | s      | s    |
-ahe und hier koennen wir wieder weiter machen
+
+ahe und hier koennen wir wieder weiter machen  
 > und sehen was heier noch so kommen wird.  
 > waere toll wenn das jetzt hier so einge-  
 > rueckt werde.
